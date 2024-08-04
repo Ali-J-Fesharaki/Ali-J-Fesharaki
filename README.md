@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently working on Reinforcement learning and Control in Robotics and how to implement them in real schemes.<br>👯 I’m looking to collaborate on Academic or industry Projects in AI and Robotics<br>🌱 I’m currently learning advanced reinforcement learning and Control Topics.<br>💬 Ask me about real mobile Robotics Challenges and the philosophy of the world.<br>⚡ I love space and Robotics and am always passionate about making harmony and poems with them.
+🔭 I’m Currently working on Reinforcement learning and Control in Robotics and how to implement them in real schemes.<br>👯 I’m looking to collaborate on Academic or industry Projects in AI and Robotics<br>🌱 I’m currently learning advanced reinforcement learning and Control Topics.<br>💬.
 
 
 ## 🌐 Socials:
